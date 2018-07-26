@@ -15,8 +15,9 @@ But to be qualified to receive the monthly return there is only one condition: k
 
 For this purpose I have created and now I make this tool available to the community so that any individual can control the activity of their nodes in a simple way.
 
+<br>
 <p align="center">
-<img src="/docs/skywire_node_checker.png" width="900" style="border: 1px solid lightgrey">
+<img src="/docs/skywire_node_checker.png" width="900" border="1">
 </p>
 
 Settings
